@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Department Orientation",
+    "description": "Department Orientation is organized for first year students",
+    "image": "images/services/download.png"
+  },
+  {
+    "title": "Department Trip",
+    "description": "Organizing Trips for students",
+    "image": "images/services/download.png"
+  },
+  {
+    "title": "Department Sports Day",
+    "description": "Organize Sports Day for the students in Department",
+    "image": "images/services/download.png"
+  }
+]
