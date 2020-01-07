@@ -7,4 +7,6 @@ What’s Aerospace Department? What facilities does IITB Aero Department have? T
 
 <img src="https://4.img-dpreview.com/files/p/E~TS590x0~articles/3925134721/0266554465.jpeg">
 
-![image](/images/services/download.png)
+![image](images/services/download.png)
+
+images/services/download.png
