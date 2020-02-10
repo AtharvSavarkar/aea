@@ -1,6 +1,6 @@
 ---
 title: 'Department Orientation'
-image: '/images/services/download.png'
+image: '<img src="https://scontent.fmaa8-1.fna.fbcdn.net/v/t1.0-0/p640x640/40103472_2082652048653105_2235543328110149632_o.jpg?_nc_cat=102&_nc_ohc=PCVA8JnK1bQAQnirhSXvAj3o3sZO7_zC0ssR1a--TkFsq-qnU9m0h3fJQ&_nc_ht=scontent.fmaa8-1.fna&oh=a740cd26f47601272a0009cc3f2b5323&oe=5EAF6A65">'
 ---
 
 More precisely known as Department Freshmen Orientation. This event is conducted for the first year UG students so as to give them a brief overview about the department and the council. This event consists of two parts:- first one is formal and the other is informal. In first part the students are addressed by HoD, there Fac Ad. In the latter half games are played and inter batch interaction takes place
